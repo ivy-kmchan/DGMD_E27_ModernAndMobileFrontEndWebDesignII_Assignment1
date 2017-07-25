@@ -1,0 +1,32 @@
+Name: Ka Man Chan
+Class: DGMD E-27
+Assignment: 1
+
+- URL for the assignment web page: 
+http://kamanc.siteground.net/DGMD_E27_Assignment1/index.html
+
+- Brower/Operating System combinations:
+PC, Firefox
+PC, Chrome (mainly use 'Mobile Device Emulation' to view websites in different mobile devices.)
+
+- # of columns in Grid System:
+4 columns 
+
+- Responsive image is located at:
+http://kamanc.siteground.net/DGMD_E27_Assignment1/about.html
+The responsive image is the aeroplane image and the comment is written in the "about.html" file. I am using Picturefill (Polyfill) for this reponsive image.
+
+- Background image is located at:
+http://kamanc.siteground.net/DGMD_E27_Assignment1/index.html &
+http://kamanc.siteground.net/DGMD_E27_Assignment1/about.html
+The comments for the header background image swap are written in the corresponding media queries in "KaManTravelStyles.css".
+
+- Typefaces:
+Three typefaces from Google Fonts were applied with the contrasting principle. 
+<h1> uses 'Luckiest Guy' with all letters in upper case.
+<h2> to <h6> use 'Amita' with first letter in upper case and all other letters in lower case.
+<nav ul li> uses 'Halant' with first letter in upper case and all other letters in lower case.
+
+- Type Scaling:
+Type scaling is implemented in the corresponding media queries in "KaManTravelStyles.css".
+
